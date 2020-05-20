@@ -1,0 +1,40 @@
+{
+  "name": "vk-nodejs-sdk",
+  "version": "0.0.3",
+  "description": "Vk Api SDK for NodeJS, Callback, Long Poll",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "SDK",
+    "VK",
+    "VK",
+    "API",
+    "NodeJS",
+    "SDK",
+    "VK",
+    "API",
+    "SDK",
+    "VK",
+    "SDK"
+  ],
+  "authors": {
+    "NameStudio": "CBStudio",
+    "Members": {
+      "Semi4": {
+        "name": "Andrey Pavlov",
+        "email": "a.pavlov123123@gmail.com"
+      },
+      "Naxyly": {
+        "name": "Pavel Lebedev",
+        "email": "def.naxyly@mail.ru"
+      }
+    }
+  },
+  "license": "ISC",
+  "readme": "README.md",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
